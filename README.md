@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vaibhav-Chakraborty Nickname(Borno)
 - 👀 I’m interested in Web Development and Programming
-- 🌱 I’m currently learning Web Development and Programming
+- 🌱 I’m currently learning Web Development and Python Programming
 - 💞️ I’m looking to collaborate on a startup website
 - 📫 How to reach me contact me at my mail: Charizardex16@gmail.com
 <!---
